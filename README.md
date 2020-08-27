@@ -1,3 +1,6 @@
+## Aperçu
+[![Image from Gyazo](https://i.gyazo.com/66447576fd3481f92ea2c01a6a3ac94c.gif)](https://gyazo.com/66447576fd3481f92ea2c01a6a3ac94c)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
