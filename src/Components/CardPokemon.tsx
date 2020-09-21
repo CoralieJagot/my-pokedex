@@ -138,10 +138,3 @@ const CardPokemon: FunctionComponent<CardPokemonProps> = (props) => {
 
 export default CardPokemon;
 
-
-//A VOIR
-
-//&:hover {css}  et autres pseudo-classes CSS :last-child et :last-of-type pour ajouter une bordure au dernier element de la div
-// transform et/ou position relative du parent / absolue de l'enfant
-// grid css (=new, voir différence avec flex)
-
